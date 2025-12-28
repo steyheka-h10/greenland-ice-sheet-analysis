@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
 Process melt extent data for Greenland ice sheet analysis.
-Currently supports 2017 melt season data.
+Currently supports 2017 and 2018 melt season data.
 """
+# Updated to support 2018 melt extent data.
 
 import pandas as pd
 import matplotlib.pyplot as plt
